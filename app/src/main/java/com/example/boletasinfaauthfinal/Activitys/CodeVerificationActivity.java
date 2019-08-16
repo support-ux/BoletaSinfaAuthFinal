@@ -1,8 +1,10 @@
-package com.example.boletasinfaauthfinal;
+package com.example.boletasinfaauthfinal.Activitys;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.boletasinfaauthfinal.R;
 
 public class CodeVerificationActivity extends AppCompatActivity {
 
