@@ -56,4 +56,6 @@ public class Employees {
     public void setFILE_BOL(byte[] FILE_BOL) {
         this.FILE_BOL = FILE_BOL;
     }
+
+    //
 }
